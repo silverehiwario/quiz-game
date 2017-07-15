@@ -1,0 +1,39 @@
+body{
+	background-color: #DB007A;
+}
+
+.col-md-10{
+	background-color: #FF7D00;
+	height: 600px;
+	text-align: center;
+	font-family: 'Metal Mania', cursive;
+    font-size: 30px;
+}
+
+header{
+
+	text-align: center;
+	font-family: 'Metal Mania', cursive;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+#button{
+display: inline-block;
+
+}
+
+.question{
+	font-size: 25px;
+   margin-top: 10px;
+   font-family: 'Bad Script', cursive;
+
+}
+
+.answers{
+	font-size: 18px;
+}
+
+#timer{
+	font-size: 15px;
+}
